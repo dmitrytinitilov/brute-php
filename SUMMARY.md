@@ -6,5 +6,5 @@
    * [Типы данных в PHP](part1/php-types.md)
 * [Глава II - Массивы](part2/README.md)
    * [Простейшие массивы](part2/arrays.md)
-   * [Better tools for authors](part2/better_tools.md)
+   * [Better tools for authors](part2/Ассоциативные массивы.md)
 
