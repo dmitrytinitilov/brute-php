@@ -1,2 +1,2 @@
-# GitBook is nice
+# Типы данных в PHP
 
