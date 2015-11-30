@@ -1,4 +1,4 @@
-# Summary
+# PHP-кирпичи
 
 * [Введение](README.md)
 * [Глава I - Старт](part1/README.md)
