@@ -1,4 +1,4 @@
-# PHP-кирпичи
+# Summary
 
 * [Введение](README.md)
 * [Глава I - Старт](part1/README.md)
@@ -9,8 +9,6 @@
    * [#COFFEE Логические операторы](part1/logical_operators.md)
    * [#COFFEE Цикл while](part1/while.md)
    * [#COFFEE Циклы с неизвестным количеством итераций](part1/unknown_cycles.md)
-   * [#COFFEE Работа со строками](part1/flags.md)
-   * [#COFFEE Операторы в PHP](part1/flags.md)
 * [Глава II - Массивы](part2/README.md)
    * [#COFFEE Простейшие массивы](part2/arrays.md)
    * [#COFFEE Ассоциативные массивы и foreach](part2/Ассоциативные массивы.md)
@@ -22,13 +20,6 @@
    * [#COFFEE isset и header("Location...](part3/header.md)
    * [#COFFEE Немного AJAX'a](part3/ajax.md)
    * [#COFFEE JSON](part3/json.md)
-* [Глава III - Функции](part4/README.md)
+* [Глава III - Функции](part3/readme.md)
    * [#COFFEE Основы](part4/)
-   * [#COFFEE Локальные и глобальные переменные](part4/)
-   * [#COFFEE Возвращение нескольких значений. Конструкция list](part4/)
-   * [#COFFEE Вызов функции](part4/)
-   * [#COFFEE Статические переменные](part4/)
-   * [#COFFEE Парамметры по умолчанию](part4/)
-   * [#COFFEE Подключение внешних файлов. include, require](part4/)
-   * [#COFFEE Проблемы с подключением. include_once, require_once](part4/)
-* 
+
