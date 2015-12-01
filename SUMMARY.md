@@ -1,4 +1,4 @@
-# Summary
+# Оглавление
 
 * [Введение](README.md)
 * [Глава I - Старт](part1/README.md)
@@ -23,5 +23,12 @@
 * [Глава III - Функции](part3/readme.md)
    * [#COFFEE Основы](part3/basics.md)
    * [#COFFEE Локальные и глобальные переменные](part3/local-global.md)
-   * [#COFFEE Возвращение нескольких значений. Конструкция list](part3/)
+   * [#COFFEE Возвращение нескольких значений. Конструкция list](part3/mass-return.md)
+   * [#COFFEE Вызов функции](part3/function-execution.md)
+   * [#COFFEE Статические переменные](part3/static-variables.md)
+   * [#COFFEE Парамметры по умолчанию](part3/default-parameters.md)
+   * [#COFFEE Подключение внешних файлов. include, require](part3/include.md)
+   * [#COFFEE Проблемы с подключением. include_once, require_once](part3/include_once.md)
+   * [#COFFEE Возвращение значений из подключаемых файлов](part3/return-from-outer.md)
+   * [#COFFEE Передаем параметры в подключаемый файл](part3/making-view.md)
 
