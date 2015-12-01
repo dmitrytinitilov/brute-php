@@ -24,10 +24,4 @@
    * [#COFFEE Основы](part3/basics.md)
    * [#COFFEE Локальные и глобальные переменные](part3/local-global.md)
    * [#COFFEE Возвращение нескольких значений. Конструкция list](part3/)
-   * [#COFFEE Вызов функции](part3/)
-   * [#COFFEE Статические переменные](part3/)
-   * [#COFFEE Парамметры по умолчанию](part3/)
-   * [#COFFEE Подключение внешних файлов. include, require](part3/)
-   * [#COFFEE Проблемы с подключением. include_once, require_once](part3/)
-   * [#COFFEE Возвращение значений из подключаемых файлов](part3/)
-   * [#COFFEE Передаем параметры в подключаемый файл](part3/)
+
