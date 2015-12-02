@@ -31,4 +31,5 @@
    * [#COFFEE Проблемы с подключением. include_once, require_once](part3/include_once.md)
    * [#COFFEE Возвращение значений из подключаемых файлов](part3/return-from-outer.md)
    * [#COFFEE Передаем параметры в подключаемый файл](part3/making-view.md)
-
+* [Глава IV Добавляем базу данных](part4/readme.md)
+   * [#COFFEE Подключение к MySQL базе данных](part4/db_connect.md)
