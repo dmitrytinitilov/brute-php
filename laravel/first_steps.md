@@ -15,7 +15,10 @@ php artisan make:auth
 **Полезное чтиво:**
 
 1. Быстрый старт
-https://laravel.ru/docs/v5/quickstart
+https://laravel.com/docs/5.1/quickstart
 
 2. Углубленный старт
 https://laravel.ru/docs/v5/quickstart-intermediate
+
+3. Создание страниц на Laravel
+https://vegibit.com/creating-static-and-dynamic-web-pages-in-laravel/

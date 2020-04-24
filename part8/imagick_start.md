@@ -28,6 +28,8 @@ colorize
 
 blur
 
+http://php.net/manual/ru/imagick.adaptivesharpenimage.php
+
 **Класс ImagickPixel**
 
 ```php
@@ -35,6 +37,17 @@ new ImagickPixel("black")
 ```
 
 Создается объект ImagickPixel. Если указан цвет, то объект создается и инициализируется с этим цветом перед возвращением.
+
+**Вырезаем куски изображения**
+
+http://php.net/manual/ru/imagick.cropimage.php
+
+
+**Полезное чтиво:**
+
+1. Набор функций Imagick
+http://php.net/manual/ru/book.imagick.php
+
 
 **Практика: **
 

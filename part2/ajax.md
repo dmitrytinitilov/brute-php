@@ -1,5 +1,7 @@
-# #COFFEE Немного AJAX'a
+# Немного AJAX'a
 
-Практика:
+https://dmitrytinitilov.gitbooks.io/strange-javascript/content/bom/ajax_and_json.html
 
-1) Сделать script.php , который подсчитывает сумму двух GET-параметров a и b . Сделать форму с двумя полями для ввода чисел. С помощью AJAX-запроса к script.php - получить их сумму.
+**Практика:**
+
+1. Сделать script.php , который подсчитывает сумму двух GET-параметров a и b . Сделать форму с двумя полями для ввода чисел. С помощью AJAX-запроса к script.php - получить их сумму.

@@ -1,4 +1,4 @@
-# Введение
+# Summary
 
 * [Введение](README.md)
 * [Глава I - Старт](part1/README.md)
@@ -16,7 +16,7 @@
   * [\# Двумерные массивы](part2/multidimensional_arrays.md)
   * [\#Массивы $\_GET и $\_POST](part2/getpost_arrays.md)
   * [\# Метод POST. Золотое правило Web-разработки](part2/post.md)
-  * [\#COFFEE Немного AJAX'a](part2/ajax.md)
+  * [\# Немного AJAX'a](part2/ajax.md)
   * [\#COFFEE JSON](part2/json.md)
 * [Глава III - Функции](part3/readme.md)
   * [\# Основы](part3/basics.md)
@@ -89,7 +89,6 @@
 * [Глава XIII PHPUnit](phpunit/README.md)
 * [Дополнения](addition/readme.md)
   * [\#COFFEE Настраиваем Sublime для PHP](addition/sublime_for_php.md)
+  * [Установка composer](addition/composer.md)
   * [Идеи проектов](addition/project_ideas.md)
-
-
 

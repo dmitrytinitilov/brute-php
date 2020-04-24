@@ -24,7 +24,7 @@ WHERE salary >1000
 ```
 
 
-echo $row[“cnt”]
+echo $row["cnt"]
 
 
 **GROUP BY**

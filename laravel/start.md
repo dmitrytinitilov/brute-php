@@ -7,6 +7,29 @@
     установка composer под OpenServer
     http://nikolaev-web.ru/blog/installing_the_composer_on_openServer/
     
+    Проверяем настроены ли у нас пути к php
+    
+    ```cli
+    php -v
+    ```
+    
+    Далее загружаем composer
+    
+    ```cli
+    php -r "readfile('http://getcomposer.org/installer');" | php -- --disable-tls
+    ```
+    
+    Пробуем запустить composer
+    ```cli
+    php composer.phar -V
+    ```
+    
+    Создадим composer.bat
+    
+    ```cli
+    echo @php "%~dp0composer.phar" %*>composer.bat
+    ```
+    
     Проверить установился ли Composer
     ```
     composer -V
@@ -21,10 +44,27 @@
 %USERPROFILE%\AppData\Local;%USERPROFILE%\AppData\Roaming;%USERPROFILE%\AppData\Roaming\composer\vendor\bin;%USERPROFILE%\AppData\Roaming\composer;C:\OpenServer\modules\php\PHP-5.6;
     ```
      
-    Обновиться до последней версии
+    Добавим extension_dir в php.ini
+    
+    ```
+    extension_dir="ext"
+    ```
+     
+    Обновимся до последней версии
+    
     ```
     composer self-update
     ```
+    
+    Если возникают проблемы с OpenSSL заглядываем в php.ini
+    
+    для помощи могут понадобиться
+    
+    ```
+    php --ini, php -m and composer show -p
+    ```
+    
+    
 2. Устанавливаем через Composer инсталлятор Laravel 
 
     ```
@@ -68,4 +108,9 @@ APP_KEY=base64:vash_code_zdes
 ```
 
 7. По адресу http://lara.org/public/ должна открыться стартовая страница Laravel
+
+**Полезное чтиво:**
+
+1. Устанавливаем Composer под OpenServer
+http://nikolaev-web.ru/blog/installing_the_composer_on_openServer/
 
